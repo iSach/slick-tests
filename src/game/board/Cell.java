@@ -1,6 +1,5 @@
 package game.board;
 
-import game.ReversiGame;
 import game.util.Point2D;
 import org.newdawn.slick.Color;
 import org.newdawn.slick.GameContainer;
